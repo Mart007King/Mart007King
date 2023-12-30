@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mart007King
 - 👀 I’m interested in Innovations and Tech
-- 🌱 I’m currently learning web development
+- 🌱 I’m a Software Engineer. An object oriented programmer. A full stack dev
 - 💞️ I’m looking to collaborate on Tech projects
 - 📫 How to reach me +2347057194041
 
